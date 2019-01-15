@@ -1,10 +1,10 @@
-##Python General Automation Script 
+## Python General Automation Script 
 Starting point for creating custom automation scripts on a Linux server with MySQL or MariaDB database
 
-###Pre-requisites 
+### Pre-requisites 
 Mail function requires script to be deployed on Linux to make use of the Unix sendmail 
 
-###Features: 
+### Features: 
 * Easy configuration via properties.ini file
 * Logging with configurable levels, creates a debugger.log file
 * Sending emails for notification out of box without additional config
